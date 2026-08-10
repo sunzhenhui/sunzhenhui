@@ -57,7 +57,27 @@ Geospatial Big Data Mining · Land Use Simulation · Urban Modeling & Computing 
 
 ---
 
+### Software Products
+
+| Product | Description | Role | Open Source | Related Publications |
+|---------|-------------|------|------------|---------------------|
+| **VecLI** | Vector landscape index engine (217 indices) | Core Developer | Software | Environ. Model. Softw. 2022 / 3rd author |
+| **UrbanVCA** | Vector CA urban land-use simulation and its theoretical research | Core Developer | Software | Comput. Environ. Urban Syst. 2024 / 3rd author (**ESI Highly Cited**) |
+| **T-VCA** | Traffic-driven vector CA for micro-scale land-use simulation | Participant | Software | 国际城市规划 2022 / 3rd author |
+| **Temporal-VCA** | Temporal data coupled vector CA for land-use simulation | Participant | Software | Cities 2024 / 4th author |
+| **CarbonVCA** | Parcel-level carbon emission accounting & forecasting | PI & Core Developer | Software | Cities 2023 / co-1st (**ESI Highly Cited**) |
+| **CoCA** | Land-population-economy cooperative simulation | Core Developer | Software | Landsc. Urban Plan. 2025 / 4th author; Int. J. Appl. Earth Obs. Geoinf. 2023 / 3rd author |
+| **GeoSDG** | SDG spatial assessment & priority area identification | PI & Sole Developer | Source Code | Int. J. Geogr. Inf. Sci. 2026 / 1st author |
+
+---
+
 ### Publications
+
+#### 2026
+
+##### New Pathways for UN SDGs Spatialization: GeoSDG Toolkit Empowering the Sustainable Future under a Spatial Context
+*International Journal of Geographical Information Science* · 2026
+[Coming soon]()
 
 #### 2025
 
