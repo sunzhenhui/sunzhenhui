@@ -63,51 +63,51 @@ Geospatial Big Data Mining · Land Use Simulation · Urban Modeling & Computing 
 
 ##### CoCA: Spatial cooperative simulation and future prediction of "land-population-economy" in urban agglomerations
 *Landscape and Urban Planning* · 2025.11
-[Paper](https://sunzhenhui.github.io/papers/coca-spatial-cooperative-simulation.html)
+[Link](https://sunzhenhui.github.io/papers/coca-spatial-cooperative-simulation.html)
 
 #### 2024
 
 ##### Estimating China's poverty reduction efficiency by integrating multi-source geospatial data and deep learning techniques
 *Geo-spatial Information Science* · 2024.07
-[Paper](https://sunzhenhui.github.io/papers/poverty-reduction.html)
+[Link](https://sunzhenhui.github.io/papers/poverty-reduction.html)
 
 ##### Applicability and sensitivity analysis of vector cellular automata model for land cover change
 *Computers, Environment and Urban Systems* · 2024
-[Paper](https://sunzhenhui.github.io/papers/applicability-vca.html)
+[Link](https://sunzhenhui.github.io/papers/applicability-vca.html)
 
 ##### Temporal-VCA: Simulating urban land use change using coupled temporal data and vector cellular automata
 *Cities* · 2024
-[Paper](https://sunzhenhui.github.io/papers/temporal-vca.html)
+[Link](https://sunzhenhui.github.io/papers/temporal-vca.html)
 
 ##### Uncovering spatiotemporal development patterns of AIDS in China: A study using panel data with Joinpoint Regression analysis and Spatial Clustering
 *Health & Place* · 2024
-[Paper](https://sunzhenhui.github.io/papers/aids-spatiotemporal.html)
+[Link](https://sunzhenhui.github.io/papers/aids-spatiotemporal.html)
 
 #### 2023
 
 ##### Fine-grained regional economic forecasting for a megacity using vector-based cellular automata
 *International Journal of Applied Earth Observation and Geoinformation* · 2023.12
-[Paper](https://sunzhenhui.github.io/papers/fine-grained-economic.html)
+[Link](https://sunzhenhui.github.io/papers/fine-grained-economic.html)
 
 ##### CarbonVCA: A cadastral parcel-scale carbon emission forecasting framework for peak carbon emissions
 *Cities* · 2023
-[Paper](https://sunzhenhui.github.io/papers/carbonvca-carbon-emission-forecasting.html)
+[Link](https://sunzhenhui.github.io/papers/carbonvca-carbon-emission-forecasting.html)
 
 #### 2022
 
 ##### VecLI: A framework for calculating vector landscape indices considering landscape fragmentation
 *Environmental Modelling & Software* · 2022
-[Paper](https://sunzhenhui.github.io/papers/vecli-vector-landscape-indices.html)
+[Link](https://sunzhenhui.github.io/papers/vecli-vector-landscape-indices.html)
 
 ##### 交通驱动下微观地块尺度的城市土地利用变化模拟——以深圳市为例
 *国际城市规划* · 2022
-[Paper](https://sunzhenhui.github.io/papers/jiaotong-qudong-weiguan-tudi.html)
+[Link](https://sunzhenhui.github.io/papers/jiaotong-qudong-weiguan-tudi.html)
 
 #### 2021
 
 ##### UrbanVCA: a vector-based cellular automata framework to simulate the urban land-use change at the land-parcel level
 *arXiv* · 2021
-[Paper](https://sunzhenhui.github.io/papers/urbanvca-vector-cellular-automata.html)
+[Link](https://sunzhenhui.github.io/papers/urbanvca-vector-cellular-automata.html)
 
 ---
 
