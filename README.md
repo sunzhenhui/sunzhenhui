@@ -77,7 +77,7 @@ Geospatial Big Data Mining · Land Use Simulation · Urban Modeling & Computing 
 
 ##### New Pathways for UN SDGs Spatialization: GeoSDG Toolkit Empowering the Sustainable Future under a Spatial Context
 *International Journal of Geographical Information Science* · 2026
-[Link](papers/geosdg-sdg-spatialization.html)
+[Link](https://sunzhenhui.github.io/papers/geosdg-sdg-spatialization.html)
 
 #### 2025
 
